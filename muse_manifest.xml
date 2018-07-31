@@ -1,0 +1,68 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="upbge.org" resolutions="1x" timestamp="1531512300228">
+  <folder name="css">
+    <file name="site_global.css" crc="4046023273"/>
+    <file name="index.css" crc="214057696" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="68747470733a2f2f75706267652e6f72672f776562726f6f742f696d616765732f6c6f676f2e706e67.png" crc="3852222886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="post-1-0-71212600-1400633765.jpg" crc="101797938" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="warscene1.jpg" crc="3970710786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u773-4.png" crc="423608697" ref="index"/>
+    <file name="u780-4.png" crc="3864435047" ref="index"/>
+    <file name="u787-4.png" crc="3843472048" ref="index"/>
+    <file name="flat2-5.png" crc="4017821707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat2-7.png" crc="289567632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat2-6.png" crc="72891616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u702-4.png" crc="113381497" ref="index"/>
+    <file name="u1334-39.png" crc="4062749905" ref="index"/>
+    <file name="island_sunset.jpg" crc="91116780" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u818-9.png" crc="117802123" ref="index"/>
+  </folder>
+  <file name="index.html" crc="300014156" seo="true" mt="1531512247610" redirect="true"/>
+</manifest>

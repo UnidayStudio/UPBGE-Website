@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://upbge.org/index.html</loc>
+    <lastmod>2018-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://upbge.org/images/68747470733a2f2f75706267652e6f72672f776562726f6f742f696d616765732f6c6f676f2e706e67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://upbge.org/images/flat2-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://upbge.org/images/flat2-7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://upbge.org/images/flat2-6.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
